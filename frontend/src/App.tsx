@@ -9,7 +9,7 @@ type VesselData = {
   imo: number;
   lat: number;
   lng: number;
-  destination: string;
+  destination: string
 }
 
 type VesselDetails = {
