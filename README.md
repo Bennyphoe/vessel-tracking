@@ -7,5 +7,6 @@ Run Frontend Locally:
 
 RUN Backend locally:
 1. navigate to backend folder
-2. RUN npm run start
+2. RUN npm install
+3. RUN npm run start
 
